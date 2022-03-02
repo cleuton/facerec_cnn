@@ -3,7 +3,7 @@
 
 [![](./banner_livros2.png)](https://www.lcm.com.br/site/#livros/busca?term=cleuton)
 
-[**PORTUGUESE** version here]https://obomprogramador.blogspot.com/2019/03/reconhecimento-e-classificacao-facial.html)
+[**PORTUGUESE** version here](https://obomprogramador.blogspot.com/2019/03/reconhecimento-e-classificacao-facial.html)
 
 Continuing my computer vision and facial recognition articles, I'll show you a simpler and more precise face recognition method, for people identification by photos, including web and security cams.
 
